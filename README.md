@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Asthraris">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/Asthraris?label=Followers&style=social" alt="GitHub Followers">
   </a>
   <a href="mailto:asthraris@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" alt="Email">
