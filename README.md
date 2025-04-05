@@ -33,13 +33,15 @@
 - 🚕 **Java**
 - ❤️ **HTML**   
 - 🌐 **JavaScript**  
-- 🐍 **Python**  
+- 🐍 **Python**
+- 🔺️ **GLSL**
+- 
 
 ### **⚡ Frameworks & Tools**  
-- 🎨 **Graphics:** OpenGL 4.5 (DSA) / 3.3 , ImGui ,QT library  
+- 🎨 **Graphics:** OpenGL 4.6 (DSA) / 3.3 , ImGui ,QT library  
 - 📦 **Build Systems:** CMake ,Ninja(little) 
 - 🛡️ **Databases:** MongoDB, SQL  
-- 🖥️ **System Programming:** Win32 API  
+- 🖥️ **System Programming:** Win32 API  , Boost.asio
 - 📡 **Networking:** LAN, Protocols
 - 🥤 **Godot:** 2D games
 - 📽️ **DaVinchi Resolve:** Basic Editing 
@@ -47,7 +49,7 @@
 ---
 
 ## 🏆 Featured Projects  
-📌 **[Game Engine using Opengl 4.5](https://github.com/your-username/opengl-renderer)** – A modern OpenGL game engine with **ImGui** support.  
+📌 **[Game Engine using Opengl 4.6](https://github.com/your-username/opengl-renderer)** – A modern OpenGL game engine with **ImGui** support.  
 📌 **[Procedural Terrain Programming](https://github.com/your-username/network-sim)** – Chunk based terrain generation using perlin noise provided by GLM library.  
 
 
