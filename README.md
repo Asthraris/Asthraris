@@ -1,77 +1,47 @@
-<h1 align="center">Hi, I'm Aman Gupta 👋</h1>
-<p align="center">
-  <b>Graphics Enthusiast | Software Developer | Application Developer | Network Programmer</b>  
-</p>
+# Hi, I'm Aman Gupta 👋
 
-<p align="center">
-  <a href="https://github.com/Asthraris">
-    <img src="https://img.shields.io/github/followers/Asthraris?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="mailto:asthraris@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/aman-gupta-7584a328b">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+**Graphics Enthusiast | Software Developer | Application Developer | Network Programmer**
+
+[![GitHub Followers](https://img.shields.io/github/followers/Asthraris?label=Followers&style=social)](https://github.com/Asthraris) [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:asthraris@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-gupta-7584a328b)
 
 ---
 
-## 🚀 About Me  
-- 🎯 **Passionate** about **graphics programming, networking, and software development**  
-- 🎮 **Currently Building:** A **game engine** with **OpenGL 4.5**  
-- 🏗️ **Learning:** `OpenGL`, `CMake`, `ImGui`, `QT`, `Win32 API`  
-- 🛠️ **Exploring:** `Deferred Rendering`, `Physics Engines`, `Terrain Programming`  
+## 🚀 About Me
+
+- 🎯 Passionate about **graphics programming, networking, and software development**
+- 🎮 **Currently Building:** A **game engine** with **OpenGL 4.5**
+- 🏗️ **Learning:** `OpenGL`, `CMake`, `ImGui`, `Qt`, `Win32 API`
+- 🛠️ **Exploring:** `Deferred Rendering`, `Physics Engines`, `Terrain Programming`
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### **🚀 Languages (ordered by usage)**  
-- **C++**  
-- **C**
-- **GLSL**
-- **C#**
-- **JavaScript**
-- **Java**
-- **HTML**     
-- **Python**
-- **Dart**
+### 🚀 Languages
 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![GLSL](https://img.shields.io/badge/-GLSL-00599C?style=flat&logo=glsl&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-00599C?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-00599C?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-00599C?style=flat&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-00599C?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-00599C?style=flat&logo=dart&logoColor=white)
 
-### **⚡ Frameworks & Tools**  
-- 🎨 **Graphics:** OpenGL 4.6 (DSA) / 3.3 , ImGui 
-- 📁 **Application:** .NET MAUI , Qt6 , Flutter , GLFW
-- 📚 **others** React.js 
-- 📦 **Build Systems:** CMake 
-- 🛡️ **Databases:** MongoDB, SQL ,PostgreSQL 
-- 🖥️ **System Programming:** Win32 API 
-- 📡 **Networking:** Qt networking
-- 🥤 **Godot:** 2D games
-- 📽️ **DaVinchi Resolve:** Basic Editing 
+### ⚡ Frameworks & Tools
+
+![OpenGL](https://img.shields.io/badge/-OpenGL-00599C?style=flat&logo=opengl&logoColor=white) ![ImGui](https://img.shields.io/badge/-ImGui-00599C?style=flat&logo=imgui&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/-NET%20MAUI-00599C?style=flat&logo=dotnet&logoColor=white) ![Qt](https://img.shields.io/badge/-Qt-00599C?style=flat&logo=qt&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-00599C?style=flat&logo=flutter&logoColor=white) ![GLFW](https://img.shields.io/badge/-GLFW-00599C?style=flat&logo=glfw&logoColor=white) ![React.js](https://img.shields.io/badge/-React.js-00599C?style=flat&logo=react&logoColor=white) ![CMake](https://img.shields.io/badge/-CMake-00599C?style=flat&logo=cmake&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-00599C?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-00599C?style=flat&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00599C?style=flat&logo=postgresql&logoColor=white) ![Win32 API](https://img.shields.io/badge/-Win32%20API-00599C?style=flat&logo=windows&logoColor=white) ![Qt Networking](https://img.shields.io/badge/-Qt%20Networking-00599C?style=flat&logo=qt&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-00599C?style=flat&logo=godot&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-00599C?style=flat&logo=blackmagicdesign&logoColor=white)
 
 ---
 
-## 🏆 Featured Projects  
-📌 **[Game Engine using Opengl 4.6](https://github.com/your-username/opengl-renderer)** – A modern OpenGL game engine with **ImGui** support.  
-📌 **[Procedural Terrain Programming](https://github.com/your-username/network-sim)** – Chunk based terrain generation using perlin noise provided by GLM library.  
+## 🏆 Featured Projects
 
-
----
-
-## 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asthraris&show_icons=true&theme=github_dark" width="48%">
-  <img src="https://streak-stats.demolab.com?user=Asthraris&theme=github-dark-blue" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asthraris&theme=github-dark">
-</p>
+- [Game Engine using OpenGL 4.6](https://github.com/your-username/opengl-renderer) – A modern OpenGL game engine with **ImGui** support.
+- [Procedural Terrain Programming](https://github.com/your-username/network-sim) – Chunk-based terrain generation using Perlin noise provided by the GLM library.
 
 ---
 
-## 📫 Contact Me  
-📌 **GitHub:** [github.com/Asthraris](https://github.com/Asthraris)  
-📌 **Email:** [asthraris@gmail.com](mailto:asthraris@gmail.com)  
-📌 **LinkedIn:** [linkedin.com/in/aman-gupta-7584a328b](https://linkedin.com/in/aman-gupta-7584a328b)  
+## 📊 GitHub Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asthraris&show_icons=true&theme=github_dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asthraris&theme=github-dark)
+
+---
+
+## 📫 Contact Me
+- Email: [asthraris@gmail.com](mailto:asthraris@gmail.com)
+  
