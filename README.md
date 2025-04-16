@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aman Gupta 👋</h1>
 <p align="center">
-  <b>Graphics Enthusiast | Software Developer | Network Programmer</b>  
+  <b>Graphics Enthusiast | Software Developer | Application Developer | Network Programmer</b>  
 </p>
 
 <p align="center">
@@ -27,22 +27,26 @@
 
 ## 🛠️ Tech Stack  
 
-### **🚀 Languages**  
-- 🟦 **C++**  
-- 🐦‍🔥 **C**
-- 🚕 **Java**
-- ❤️ **HTML**   
-- 🌐 **JavaScript**  
-- 🐍 **Python**
-- 🔺️ **GLSL**
-- 
+### **🚀 Languages (ordered by usage)**  
+- **C++**  
+- **C**
+- **GLSL**
+- **C#**
+- **JavaScript**
+- **Java**
+- **HTML**     
+- **Python**
+- **Dart**
+
 
 ### **⚡ Frameworks & Tools**  
-- 🎨 **Graphics:** OpenGL 4.6 (DSA) / 3.3 , ImGui ,QT library  
-- 📦 **Build Systems:** CMake ,Ninja(little) 
-- 🛡️ **Databases:** MongoDB, SQL  
-- 🖥️ **System Programming:** Win32 API  , Boost.asio
-- 📡 **Networking:** LAN, Protocols
+- 🎨 **Graphics:** OpenGL 4.6 (DSA) / 3.3 , ImGui 
+- 📁 **Application:** .NET MAUI , Qt6 , Flutter , GLFW
+- 📚 **others** React.js 
+- 📦 **Build Systems:** CMake 
+- 🛡️ **Databases:** MongoDB, SQL ,PostgreSQL 
+- 🖥️ **System Programming:** Win32 API 
+- 📡 **Networking:** Qt networking
 - 🥤 **Godot:** 2D games
 - 📽️ **DaVinchi Resolve:** Basic Editing 
 
