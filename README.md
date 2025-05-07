@@ -29,7 +29,7 @@
 
 ## 🏆 Featured Projects
 
-- [Game Engine using OpenGL 4.6](https://github.com/your-username/opengl-renderer) – A modern OpenGL game engine with **ImGui** support.
+- [3D Graphics Engine using OpenGL 4.6](https://github.com/Asthraris/) – A modern OpenGL game engine with **ImGui** support.
 - [Procedural Terrain Programming](https://github.com/your-username/network-sim) – Chunk-based terrain generation using Perlin noise provided by the GLM library.
 
 ---
