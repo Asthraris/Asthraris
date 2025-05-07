@@ -29,8 +29,8 @@
 
 ## 🏆 Featured Projects
 
-- [3D Graphics Engine using OpenGL 4.6](https://github.com/Asthraris/) – A modern OpenGL game engine with **ImGui** support.
-- [Procedural Terrain Programming](https://github.com/your-username/network-sim) – Chunk-based terrain generation using Perlin noise provided by the GLM library.
+- [3D Graphics Engine using OpenGL 4.6](https://github.com/Asthraris/3D-Graphics-Engine-Using-OpenGL) – A modern OpenGL game engine with **ImGui** support.
+- [Procedural Terrain Programming](https://github.com/Asthraris/Procedural-Terrain-Generation) – Chunk-based terrain generation using Perlin noise provided by the GLM library.
 
 ---
 
