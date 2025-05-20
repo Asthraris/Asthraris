@@ -1,4 +1,4 @@
-# Hi, I'm Aman Gupta 👋
+Hi, I'm Aman Gupta 👋
 
 **Graphics Enthusiast | Software Developer | Application Developer | Network Programmer**
 
@@ -6,18 +6,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎯 Passionate about **graphics programming, networking, and software development**
-- 🎮 **Currently Building:** A **game engine** with **OpenGL 4.5**
-- 🏗️ **Learning:** `OpenGL`, `CMake`, `ImGui`, `Qt`, `Win32 API`
-- 🛠️ **Exploring:** `Deferred Rendering`, `Physics Engines`, `Terrain Programming`
+- Passionate about **graphics programming, networking, and software development**
+- **Currently Building:** A **3D physics engine** with **Opengl 4.6 , Eigen maths lib.**
+- **Learning:** `OpenGL`, `CMake`, `ImGui`, `Qt`, `Win32 API`
+- **Exploring:** `Deferred Rendering`, `Physics Engines`, `Terrain Programming`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🚀 Languages
+### Languages
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![GLSL](https://img.shields.io/badge/-GLSL-00599C?style=flat&logo=glsl&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-00599C?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-00599C?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-00599C?style=flat&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-00599C?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-00599C?style=flat&logo=dart&logoColor=white)
 
@@ -27,11 +27,11 @@
 
 ---
 
-## 🏆 Featured Projects
-
-- [3D Graphics Engine using OpenGL 4.6](https://github.com/Asthraris/3D-Graphics-Engine-Using-OpenGL) – A modern OpenGL game engine with **ImGui** support.
-- [Procedural Terrain Programming](https://github.com/Asthraris/Procedural-Terrain-Generation) – Chunk-based terrain generation using Perlin noise provided by the GLM library.
-
+##  Featured Projects
+- [3D Physics Engine using OpenGL 4.6](https://github.com/Asthraris/3D-Graphics-Engine-Using-OpenGL) - Physics engine with simulation capabilities using ==Eigen== Maths library.
+- [3D Graphics Engine using OpenGL 4.6](https://github.com/Asthraris/3D-Graphics-Engine-Using-OpenGL) – A modern OpenGL graphics engine with using ECS with scene hierarchy with dyanamic update using imgui.
+- [Procedural Terrain Programming](https://github.com/Asthraris/Procedural-Terrain-Generation) – Chunk-based terrain generation using Perlin noise provided by the ==GLM== library fully costomizable (STATICAL).
+  
 ---
 
 ## 📊 GitHub Stats & Activity
