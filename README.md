@@ -19,11 +19,92 @@ Hi, I'm Aman Gupta 👋
 
 ### Languages
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![GLSL](https://img.shields.io/badge/-GLSL-00599C?style=flat&logo=glsl&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-00599C?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-00599C?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-00599C?style=flat&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-00599C?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-00599C?style=flat&logo=dart&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/> C++ &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/> C &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Python &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> Java &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/> C# &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> JavaScript &nbsp;&nbsp;
+  <strong style="font-size: 16px;">Rust*</strong>
+</p>
 
-### Frameworks & Tools
+---
 
-![OpenGL](https://img.shields.io/badge/-OpenGL-00599C?style=flat&logo=opengl&logoColor=white) ![ImGui](https://img.shields.io/badge/-ImGui-00599C?style=flat&logo=imgui&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/-NET%20MAUI-00599C?style=flat&logo=dotnet&logoColor=white) ![Qt](https://img.shields.io/badge/-Qt-00599C?style=flat&logo=qt&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-00599C?style=flat&logo=flutter&logoColor=white) ![GLFW](https://img.shields.io/badge/-GLFW-00599C?style=flat&logo=glfw&logoColor=white) ![React.js](https://img.shields.io/badge/-React.js-00599C?style=flat&logo=react&logoColor=white) ![CMake](https://img.shields.io/badge/-CMake-00599C?style=flat&logo=cmake&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-00599C?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-00599C?style=flat&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00599C?style=flat&logo=postgresql&logoColor=white) ![Win32 API](https://img.shields.io/badge/-Win32%20API-00599C?style=flat&logo=windows&logoColor=white) ![Qt Networking](https://img.shields.io/badge/-Qt%20Networking-00599C?style=flat&logo=qt&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-00599C?style=flat&logo=godot&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-00599C?style=flat&logo=blackmagicdesign&logoColor=white)
+### Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/> HTML5 &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> CSS3 &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> React &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/> Flutter* &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/> Dart*
+</p>
+
+---
+
+### Backend & API
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/> FastAPI &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30"/> .NET MAUI* &nbsp;&nbsp;
+</p>
+
+---
+
+### Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/> SQLite &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/> PostgreSQL &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/> MongoDB
+</p>
+
+---
+
+### Game & Graphics
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30"/> OpenGL (3.3, 4.6) &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30"/> Godot &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30"/> Unreal* &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Pygame
+</p><p><strong>Native Tools:</strong> GLFW, SFML, Raylib, GLM, GLAD, ImGui, Enet, tinygltf, stb_image, Eigen</p>
+
+---
+
+### UI Frameworks / Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30"/> Qt6 / QML &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30"/> Android Studio
+</p>
+
+---
+
+### Dev Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30"/> CMake &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/> Git
+</p>
+
+---
+
+### AI / Vision (Research)
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30"/> OpenCV &nbsp;&nbsp;
+  <strong style="font-size: 16px;">ONNX*</strong> &nbsp;&nbsp;
+  <strong style="font-size: 16px;">OpenVX**</strong>
+</p>
+
+---
+
+**Legend:**
+
+→ Learning now or planned<br>
+** → Long-term learning goal
 
 ---
 
