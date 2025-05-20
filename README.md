@@ -117,9 +117,12 @@ Hi, I'm Aman Gupta 👋
 
 ## GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asthraris&show_icons=true&theme=github_dark)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asthraris&theme=github-dark)
+<div align="center">
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Asthraris&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asthraris&theme=github-dark" alt="GitHub Activity Graph" />
+  </div>
+</div>
 
 ---
 
