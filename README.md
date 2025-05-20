@@ -115,16 +115,6 @@ Hi, I'm Aman Gupta 👋
   
 ---
 
-## GitHub Stats & Activity
-
-<div align="center">
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Asthraris&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asthraris&theme=github-dark" alt="GitHub Activity Graph" />
-  </div>
-</div>
-
----
 
 ## Contact Me
 - Email: [asthraris@gmail.com](mailto:asthraris@gmail.com)
