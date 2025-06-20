@@ -26,7 +26,10 @@ Hi, I'm Aman Gupta 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> Java &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/> C# &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> JavaScript &nbsp;&nbsp;
+  <strong style="font-size: 16px;">TypeScript</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/> Dart
   <strong style="font-size: 16px;">Rust*</strong>
+  
 </p>
 
 ---
@@ -38,6 +41,7 @@ Hi, I'm Aman Gupta 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30"/> Godot &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30"/> Unreal* &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Pygame
+  WEBGPU
 </p><p><strong>Native Tools:</strong> GLFW, SFML, Raylib, GLM, GLAD, ImGui, Enet, tinygltf, stb_image, Eigen</p>
 
 ---
@@ -47,6 +51,9 @@ Hi, I'm Aman Gupta 👋
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30"/> Qt6 / QML &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30"/> Android Studio
+  VScode
+  Visual Studio
+  ShadCN Ui
 </p>
 
 ---
@@ -67,8 +74,7 @@ Hi, I'm Aman Gupta 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/> HTML5 &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> CSS3 &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> React &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/> Flutter* &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/> Dart*
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/> Flutter &nbsp;&nbsp;
 </p>
 
 ---
