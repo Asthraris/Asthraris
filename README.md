@@ -2,14 +2,7 @@
 <h5 align="center">Graphics Enthusiast | Application Developer </h5>
 
 
- [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:asthraris@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-gupta-7584a328b)
-
-- Passionate about **graphics programming, networking, and software development**
-- **Currently Building:** A **3D physics engine** with **OpenGL 4.6, Eigen maths lib.**
-- **Learning:** `OpenGL`, `CMake`, `ImGui`, `Qt`, `Win32 API`
-- **Exploring:** `Deferred Rendering`, `Physics Engines`, `Terrain Programming`
-
----
+ [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:asthraris@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asthraris)
 
 <h3 align="center">Tech Stack</h3>
 
@@ -46,7 +39,10 @@
 
 <h5 align="end">Dev. Tools</h5>
 
-![CMake](https://img.shields.io/badge/cmake-%23008FBF.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![CMake](https://img.shields.io/badge/cmake-%23008FBF.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
 <picture>
