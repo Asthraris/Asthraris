@@ -1,9 +1,10 @@
-<h1 align="center" style="color:red">Hi, I'm Aman Gupta 👋</h1>
-<h5 align="center">Graphics Enthusiast | Application Developer </h5>
-
+<h1 align="center" style="color:red">Hi , I'm Aman Gupta </h1>
+<h3 align="center">Graphics Enthusiast | Application Developer </h3>
 
  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:asthraris@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asthraris)
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+ 
 <h3 align="center">Tech Stack</h3>
 
 <h5 align="end">Languages</h5>
