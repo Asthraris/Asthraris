@@ -1,0 +1,2 @@
+add theory , os ,cn,ada,
+show linux usgae
