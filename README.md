@@ -1,9 +1,12 @@
 <h1 align="center" style="color:red">Hi , I'm Aman Gupta </h1>
 <h3 align="center">Backend / Infrastructure Engineer with strong systems and performance focus | Application Developer </h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-374151?style=for-the-badge&logo=vercel&logoColor=white)](https://folio-amangupta.vercel.app)
-[![Email](https://img.shields.io/badge/Email-asthraris@gmail.com-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asthraris@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-asthraris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asthraris)
+<a href="https://folio-amangupta.vercel.app" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Portfolio-FF4444?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
 
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
