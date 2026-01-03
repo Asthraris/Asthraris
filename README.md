@@ -1,6 +1,7 @@
 <h1 align="center" style="color:red">Hi , I'm Aman Gupta </h1>
 <h3 align="center">Backend / Infrastructure Engineer with strong systems and performance focus | Application Developer </h3>
 
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:asthraris@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asthraris)
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -17,18 +18,9 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) 
  
-
-<h5 align="end">Frontend</h5> 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
 <h5 align="end">Backend & API</h5>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-6447A0?style=for-the-badge&logo=.net&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 
@@ -43,26 +35,23 @@
 ![CMake](https://img.shields.io/badge/cmake-%23008FBF.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h5 align="end">Game & Graphics</h5>
-
-![OpenGL](https://img.shields.io/badge/OpenGL-5C82A2?style=for-the-badge&logo=opengl&logoColor=white) 
-![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Pygame](https://img.shields.io/badge/WebGPU-000000?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-<h5 align="end">AI / Vision</h5>
-
-![OpenCV](https://img.shields.io/badge/OpenCV-%232DBC8F.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 
 <h5 align="end">UI Frameworks / Tools</h5>
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvhiMaz/AvhiMaz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvhiMaz/AvhiMaz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AvhiMaz/AvhiMaz/output/github-snake.svg" />
-</picture>
+<h5 align="end">Graphics & Vision</h5>
+
+![OpenGL](https://img.shields.io/badge/OpenGL-5C82A2?style=for-the-badge&logo=opengl&logoColor=white) 
+![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%232DBC8F.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+
